@@ -1,0 +1,4 @@
+backtrader
+matplotlib
+pandas
+tushare
