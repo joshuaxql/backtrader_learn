@@ -1,7 +1,7 @@
 # Backtrader API 学习项目
 
 面向 [`backtrader`](https://www.backtrader.com/docu/) 入门与查阅。
-更多说明可以查看https://backtrader-zh.readthedocs.io/zh-cn/latest/index_zh.html这个中文文档
+更多说明可以查看https://backtrader-zh.readthedocs.io/zh-cn/latest/index_zh.html
 
 ## 1. 项目文件
 
